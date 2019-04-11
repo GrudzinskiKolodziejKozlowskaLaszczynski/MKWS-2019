@@ -9,7 +9,7 @@ import math
 import cantera as ct
 
 
-print 'Starting conditions: T0=300 K, P0 = 101 325 Pa, fi=1'
+print 'Starting conditions: T0=300 K, P0 = 101 325 Pa, fi=0.5'
 print 'Increase in condtions" values: deltaT = 20 K, deltaP = 1 000 Pa'
 print 'It"s a test, only temperature gets increased for now, 40 iterations to be executed'
 licz = 0
